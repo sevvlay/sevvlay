@@ -1,5 +1,5 @@
 ### Hi there 👋, Şevval Aydoğan
-#### Computer Engineering Student
+#### I am a computer engineering student with a passion for technology. I am currently working mainly on machine learning, artificial intelligence and cybersecurity. 
 
 
 Skills: Python / Machine Learning/ Data Science / C# 
