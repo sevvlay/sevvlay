@@ -2,7 +2,7 @@
 #### A fourth-year Computer Engineering student. Currently working mainly on machine learning, artificial intelligence and cybersecurity. 
 
 
-Skills: Python / Machine Learning/ Data Science / C# 
+Skills: Python / Machine Learning/ Data Science
 
 
 
