@@ -33,21 +33,18 @@ Technologies I use and am currently learning:
   </a>
 </p>
 
-> **Note:** You can add more badges or change colors from [Shields.io](https://shields.io/).
 
 ---
 
 ### My GitHub Stats
 
-(Remember to replace `your-github-username` with your actual username)
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&icon_color=79ff97&text_color=9f9f9f&border_color=9f9f9f" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sevvlay&show_icons=true&theme=transparent&icon_color=79ff97&text_color=9f9f9f&border_color=9f9f9f" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide=jupyter,html,css&text_color=9f9f9f&border_color=9f9f9f" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvlay&layout=compact&theme=transparent&hide=jupyter,html,css&text_color=9f9f9f&border_color=9f9f9f" alt="Top Languages" />
   </a>
 </p>
 
@@ -56,10 +53,10 @@ Technologies I use and am currently learning:
 ### 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[your-linkedin-username]" target="_blank">
+  <a href="https://www.linkedin.com/in/[sevvallaydogann]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[your.email@gmail.com]" target="_blank">
+  <a href="mailto:[sevvallaydogann@gmail.com]" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   </p>
