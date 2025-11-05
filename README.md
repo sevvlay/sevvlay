@@ -5,8 +5,8 @@
   💡 Passionate about Machine Learning, Artificial Intelligence, and Cybersecurity.
 </p>
 <p>
-  🌱 I’m currently focusing on <strong>[A specific technology or concept you're learning, e.g., Deep Learning Architectures]</strong>.<br>
-  🚀 I’m looking to collaborate on <strong>[A project type or interest, e.g., Natural Language Processing]</strong>.
+  🌱 I’m currently focusing on **Defensive Security principles (Blue Team)** and **practical Machine Learning applications**.
+  🚀 I'm open to opportunities in **Cybersecurity (Blue Team)** and **Data-driven roles (AI/ML)**.
 </p>
 
 ---
