@@ -40,11 +40,11 @@ Technologies I use and am currently learning:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=sevvlay&show_icons=true&theme=transparent&icon_color=79ff97&text_color=9f9f9f&border_color=9f9f9f" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sevvallaydogann&show_icons=true&theme=transparent&icon_color=79ff97&text_color=9f9f9f&border_color=9f9f9f" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvlay&layout=compact&theme=transparent&hide=jupyter,html,css&text_color=9f9f9f&border_color=9f9f9f" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvallaydogann&layout=compact&theme=transparent&hide=jupyter,html,css&text_color=9f9f9f&border_color=9f9f9f" alt="Top Languages" />
   </a>
 </p>
 
