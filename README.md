@@ -5,8 +5,8 @@
   💡 Passionate about Machine Learning, Artificial Intelligence, and Cybersecurity.
 </p>
 <p>
-  🌱 I’m currently focusing on <strong>Defensive Security principles (Blue Team) and practical Machine Learning applications.</strong><br>
-  🚀 I'm open to opportunities in <strong>Cybersecurity (Blue Team) and Data-driven roles (AI/ML)</strong>
+  🌱 Focusing on <strong>Defensive Security principles (Blue Team) and practical Machine Learning applications.</strong><br>
+   Open to opportunities in <strong>Cybersecurity (Blue Team) and Data-driven roles (AI/ML)</strong>
 </p>
 
 ---
