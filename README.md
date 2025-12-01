@@ -39,11 +39,11 @@ Technologies I use and am currently learning:
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sevvallaydogan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sevvallaydogann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvallaydogan&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter,html,css" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvallaydogann&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter,html,css" alt="Top Languages" />
   </a>
 </p>
 
