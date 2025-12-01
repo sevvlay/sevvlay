@@ -38,12 +38,8 @@ Technologies I use and am currently learning:
 ### My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sevvallaydogann&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sevvallaydogann&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter,html,css" alt="Top Languages" />
+  <a href="https://github.com/lowlighter/metrics">
+    <img src="https://metrics.lecoq.io/sevvallaydogan?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics" />
   </a>
 </p>
 
