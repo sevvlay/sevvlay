@@ -38,8 +38,14 @@ Technologies I use and am currently learning:
 ### My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/lowlighter/metrics">
-    <img src="https://metrics.lecoq.io/sevvallaydogan?template=classic&base=header,activity,community,repositories,metadata&languages=1&languages.limit=8&config.timezone=Europe%2FIstanbul" alt="GitHub Metrics" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevvallaydogann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevvallaydogann&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
 
