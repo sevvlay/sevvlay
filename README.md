@@ -48,6 +48,7 @@ Technologies I use and am currently learning:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevvallaydogann&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
+
 ---
 
 ### 📫 Let's Connect!
