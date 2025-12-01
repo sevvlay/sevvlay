@@ -44,9 +44,9 @@ Technologies I use and am currently learning:
 </p>
 
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevvallaydogann&theme=tokyonight" alt="Profile Details" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevvallaydogann&theme=tokyonight" alt="GitHub Stats" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevvallaydogann&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
