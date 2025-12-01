@@ -38,8 +38,8 @@ Technologies I use and am currently learning:
 ### My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevvallaydogann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sevvallaydogann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -48,7 +48,6 @@ Technologies I use and am currently learning:
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sevvallaydogann&theme=tokyonight" alt="Profile Details" />
   </a>
 </p>
-
 ---
 
 ### 📫 Let's Connect!
