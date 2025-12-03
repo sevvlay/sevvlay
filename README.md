@@ -38,12 +38,13 @@ Technologies I use and am currently learning:
 ### My GitHub Stats
 
 <p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sevvallaydogann)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sevvallaydogann" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevvallaydogann&theme=tokyonight" alt="GitHub Stats" />
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevvallaydogann&theme=tokyonight" alt="Top Languages" />
 </p>
 
