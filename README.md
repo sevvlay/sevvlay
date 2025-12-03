@@ -37,11 +37,7 @@ Technologies I use and am currently learning:
 
 ### My GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=sevvallaydogann&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sevvallaydogann)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevvallaydogann&theme=tokyonight" alt="GitHub Stats" />
