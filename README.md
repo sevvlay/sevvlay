@@ -37,7 +37,9 @@ Technologies I use and am currently learning:
 
 ### My GitHub Stats
 
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sevvallaydogann)](https://git.io/streak-stats)
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevvallaydogann&theme=tokyonight" alt="GitHub Stats" />
