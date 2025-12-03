@@ -1,11 +1,11 @@
 ### Hi! I'm Şevval
 
 <p>
-  🎓 A fourth-year Computer Engineering student. <br>
-  💡 Passionate about Machine Learning, Artificial Intelligence, and Cybersecurity.
+   A fourth-year Computer Engineering student. <br>
+   Interested in Machine Learning, Artificial Intelligence, and Cybersecurity.
 </p>
 <p>
-  🌱 Focusing on <strong>Defensive Security principles (Blue Team) and practical Machine Learning applications.</strong><br>
+   Focusing on <strong>Defensive Security principles (Blue Team) and practical Machine Learning applications.</strong><br>
    Open to opportunities in <strong>Cybersecurity (Blue Team) and Data-driven roles (AI/ML)</strong>
 </p>
 
@@ -39,7 +39,7 @@ Technologies I use and am currently learning:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sevvallaydogann" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevvallaydogann&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
