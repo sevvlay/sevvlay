@@ -13,6 +13,8 @@
 
 ### My Tech Stack
 
+Technologies I use and am currently learning:
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -37,7 +39,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sevvallaydogann&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=sevvallaydogann&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -48,7 +50,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sevvallaydogann" target="_blank">
