@@ -35,14 +35,6 @@ Technologies I use and am currently learning:
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sevvallaydogann&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevvallaydogann&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sevvallaydogann&theme=tokyonight" alt="Top Languages" />
