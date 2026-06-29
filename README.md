@@ -19,7 +19,7 @@ Fourth-year Computer Engineering student passionate about <br/>
 
 ---
 
-## 🛡️ Cybersecurity / Blue Team
+## Cybersecurity / Blue Team
 
 <p align="left">
   <img src="https://img.shields.io/badge/Blue_Team-000000?style=for-the-badge&logo=linux&logoColor=white" />
@@ -29,7 +29,7 @@ Fourth-year Computer Engineering student passionate about <br/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-## 🤖 AI / Machine Learning
+## AI / Machine Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -43,7 +43,7 @@ Fourth-year Computer Engineering student passionate about <br/>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sevvallaydogann&theme=tokyonight" alt="GitHub Stats" />
@@ -56,7 +56,7 @@ Fourth-year Computer Engineering student passionate about <br/>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sevvallaydogann" target="_blank">
